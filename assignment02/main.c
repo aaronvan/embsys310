@@ -1,14 +1,14 @@
+/* VanAlstine Assignmetn 2 */
+
+int counter = 0x0;
 
 int main()
 {
-  int counter = 0;
+  int *p_int = (int *)0x20000000;
+  ++(*p_int);
+  ++(*p_int);
+  ++(*p_int);
   counter++;
-  counter++;
-  counter++;
-  counter++;
-  counter++;
-  counter++;
-  counter++;
-  
+     
   return 0;
 }
