@@ -5,13 +5,13 @@
 1c. N and V flags are set to 1  
 
 2a. The counter value is -1  
-2b. The N and V flags set to 0  
+2b. The N and V flags set to 0. This means the result of the operation was not negative and there was no overflow  
 
 3a. The value is 0  
-3b. The N and V flags set to 0  
+3b. The N and V flags set to 0  This means the result of the operation was not negative and there was no overflow  
 
 4a. The value is 0  
-4b. The N and V flags set to 0  
+4b. The N and V flags set to 0  This means the result of the operation was not negative and there was no overflow  
 
 5a. The scope is global  
 5b. No, because it is outside main()  
