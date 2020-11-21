@@ -8,4 +8,4 @@
 
 ![Swap screen shot](./images/swap.JPG)
 
-2. I could not solve the link error and get it to run. My assembler code is uploaded.
+2 & 3. I could not solve the link error and get it to run. My assembler code is uploaded.
