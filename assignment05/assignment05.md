@@ -4,5 +4,6 @@
 
 1b. R0 = 0x20001ffc, R1 = 0x20001ff8 
 
-1c.
+1c. The local variables:
+
 ![Swap screen shot](./images/swap.JPG)
